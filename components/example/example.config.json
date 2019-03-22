@@ -1,0 +1,22 @@
+{
+    "context": {
+        "author": "Daniel Lousa",
+        "users": [{
+            "name": "Arthur",
+            "title": "Assistant"
+        },
+        {
+            "name": "Caitlin",
+            "title": "Teacher"
+        },
+        {
+            "name": "Luis",
+            "title": "Dog"
+        },
+        {
+            "name": "Blue",
+            "title": "Cat"
+        }]
+
+    }
+}

@@ -1,2 +1,12 @@
-<h3>{{ record }}</h3>
-<p>{{ text }}</p>
+{{ author }}
+<div>The people using this app are
+    <ul>
+    {{#each users}}
+        <li>
+            <h3>{{ name }}</h3>
+            <p>{{ title }}</p>  
+        </li>
+    {{/each}}
+    
+    
+</div>
