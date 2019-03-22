@@ -1,0 +1,5 @@
+title: "This is a test of yml data"
+status: "Working on it"
+context:
+  name: Daniel
+  mood: Tired
