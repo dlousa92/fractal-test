@@ -13,7 +13,6 @@ for (let i = 0; i < sampleDataCount; i++) {
         description: 'They are ' + faker.hacker.adjective() + '.'
     })
 }
-console.log(userData)
 module.exports = {
     context: {
         users: userData
